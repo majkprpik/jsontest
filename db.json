@@ -1,10 +1,46 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "news": [
+  {
+    "_id": "5e43ae897cd7f2f985a682bc",
+    "index": 0,
+    "guid": "5211f5fe-af70-46a9-8664-c1fcc2e0dd90",
+    "isActive": false,
+    "createdDate": "Sat Jan 04 1975 05:54:39 GMT+0100 (Central European Standard Time)",
+    "text": "mollit excepteur dolor commodo dolore voluptate duis anim minim magna excepteur esse deserunt consectetur et velit eiusmod est cillum aute velit veniam deserunt eiusmod excepteur"
+  },
+  {
+    "_id": "5e43ae89fa94194928302943",
+    "index": 1,
+    "guid": "8669978f-21ff-4611-9674-91ef3ba939c7",
+    "isActive": true,
+    "createdDate": "Sat Apr 04 2009 23:02:24 GMT+0200 (Central European Summer Time)",
+    "text": "elit duis aute est labore magna exercitation excepteur anim labore irure proident do culpa cillum amet id excepteur excepteur in eu incididunt elit nostrud deserunt"
+  },
+  {
+    "_id": "5e43ae89300fd38ea9fd03a0",
+    "index": 2,
+    "guid": "525dbfa0-7cc6-43dc-9055-2f72f5c68624",
+    "isActive": false,
+    "createdDate": "Tue Jun 08 2010 00:12:51 GMT+0200 (Central European Summer Time)",
+    "text": "irure sit ea officia do esse aliqua do mollit quis voluptate dolore cupidatat laborum esse sit pariatur consequat consequat exercitation Lorem aliqua nostrud anim aliqua"
+  },
+  {
+    "_id": "5e43ae8970ff8c48a449e2d9",
+    "index": 3,
+    "guid": "66f235cd-b576-4ea0-be02-dec261c6a26d",
+    "isActive": true,
+    "createdDate": "Sun Sep 11 2016 23:54:15 GMT+0200 (Central European Summer Time)",
+    "text": "aliqua eu excepteur dolor nulla amet in occaecat esse et consequat id in pariatur ad sint esse exercitation reprehenderit cillum elit laborum pariatur sit consequat"
+  },
+  {
+    "_id": "5e43ae89e11d1628fd7620cf",
+    "index": 4,
+    "guid": "cca7905d-f27a-4116-b0fb-998d9385bb1a",
+    "isActive": false,
+    "createdDate": "Sun Aug 19 2007 15:54:30 GMT+0200 (Central European Summer Time)",
+    "text": "sint do ut tempor pariatur et sit non quis enim laborum ullamco sunt consectetur occaecat ullamco eu qui anim enim nisi eiusmod id sit ipsum"
+  }
+],
   "profile": {
     "name": "typicode"
   }
